@@ -1,2 +1,5 @@
 # PracticeRepo
-My very first repository for Java.
+My amazing program. Don't steal!
+
+## Authors
+Jim, Sally, and Paul.
